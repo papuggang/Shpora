@@ -1,0 +1,16 @@
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\bin\Debug\ggdfr.exe.config
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\bin\Debug\ggdfr.exe
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\bin\Debug\ggdfr.pdb
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\MainWindow.g.cs
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\App.g.cs
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr_MarkupCompile.cache
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr_MarkupCompile.lref
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\MainWindow.baml
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr.g.resources
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr.Properties.Resources.resources
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr.exe
+C:\Users\HUAWEI\source\repos\ggdfr\ggdfr\obj\Debug\ggdfr.pdb
